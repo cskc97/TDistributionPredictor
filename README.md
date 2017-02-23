@@ -11,6 +11,8 @@ You can do that by visiting - http://commons.apache.org/proper/commons-math/down
 
 #### For Android Studio:
 
-Add the following line of code in your gradle:
+1) Add the following line of code in your gradle:
 
-compile 'org.apache.commons:commons-math3:3.6.1'
+    compile 'org.apache.commons:commons-math3:3.6.1'
+<br>
+2) Use the code
